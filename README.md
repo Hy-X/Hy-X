@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hy-X
 - 👀 I’m interested in seismology
-- 🌱 I’m currently learning machine learning in receiver function calculation
+- 🌱 I’m currently learning machine learning in seismology
 - 💞️ I’m looking to collaborate on geophysics application of machine learning
-- 📫 How to reach me -> hongyux2@illinois.edu
+- 📫 How to reach me -> hongyu.xiao-1 at ou.edu
 
 <!---
 Hy-X/Hy-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
